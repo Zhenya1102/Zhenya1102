@@ -20,7 +20,7 @@
 :man_technologist: About Me :
 <div>I am a Frontend Developer <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="35"> from Belarus.</div>
 
-- :telescope: I'm frontend developer with experience in creating SPA using React, Redux, Redux-Toolkit, Axios, Reat-Api ,React-Router-Dom, TypeScript, JavaScript, SCSS, HTML.
+- :telescope: I'm frontend developer with experience in creating SPA using React, Redux, Redux-Toolkit, Axios, Rest-Api ,React-Router-Dom, TypeScript, JavaScript, SCSS, HTML.
 
 - :seedling: I am enthusiastic team player focused on personal growth. 
 
