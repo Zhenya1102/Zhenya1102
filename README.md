@@ -8,7 +8,7 @@
   <a href="https://www.codewars.com/users/Zhenya100">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
-  <a href="https://zhenya1102.github.io/portfolio/">
+  <a href="https://zhenya1102.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
